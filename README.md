@@ -1,4 +1,6 @@
 # salesforcedx
 Base image with sfdx installed
 
-WIP
+# run
+
+docker run --rm -ti salesforcedx sfdx
